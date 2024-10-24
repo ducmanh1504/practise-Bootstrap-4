@@ -672,6 +672,7 @@
 }
 .footer .footer-desc .desc{
   color:#fff;
-  margin: 20px 1px;
+  margin: 20px;
+  margin-left: 1px;
 }
 /* footer */
